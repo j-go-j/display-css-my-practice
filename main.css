@@ -8,6 +8,7 @@ main {
 }
 .box {
   display: inline-block;
+  border: 1px solid black;
 }
 .upper {
   width: 50%;
